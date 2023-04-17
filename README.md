@@ -42,6 +42,14 @@ See the [project documentation](https://docs.blockscout.com/) for instructions:
 
 We would like to thank the [EthPrize foundation](http://ethprize.io/) for their funding support.
 
+## Data Analytics
+
+- [Ecosystem Overview](https://www.footprint.network/@Shelly/Celo-Chain-Ecosystem-Overview)
+- [Transactions Summary](https://www.footprint.network/@Shelly/Celo-Chain-Transactions?chain=Celo)
+- [Celostrials Dashboard](https://www.footprint.network/@tomfutago/Celostrials)
+- [Plastiks Dashboard](https://www.footprint.network/@tomfutago/Plastiks)
+
+
 ## Contributing
 
 See [CONTRIBUTING.md](CONTRIBUTING.md) for contribution and pull request protocol. We expect contributors to follow our [code of conduct](CODE_OF_CONDUCT.md) when submitting code or comments.
